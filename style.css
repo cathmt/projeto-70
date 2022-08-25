@@ -1,0 +1,24 @@
+img{
+    width: 35%;
+    height: 500px;
+    text-align: center;
+
+}
+
+ul{
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    width: 100%;
+    background-color: white;
+}
+
+h1{
+    background-color:beige;
+}
+
+#video{
+    width:100%;
+    height:500px;
+    border:none;
+}
